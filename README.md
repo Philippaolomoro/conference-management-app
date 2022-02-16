@@ -1,6 +1,6 @@
 # A Simple Conference Management app
 
-- An aviyel assignment that entails a simple conference management app
+- A simple conference management app
 
 ## Technology Stack
 The technology stack used to create this application is as follows:
